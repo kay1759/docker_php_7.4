@@ -23,7 +23,6 @@ run apt update \
 	libzip-dev \
 	libonig-dev \
 	graphviz \
-	libfreetype6-dev \
 	libc-client-dev \
 	libkrb5-dev \
 	&& docker-php-ext-configure imap --with-kerberos --with-imap-ssl \

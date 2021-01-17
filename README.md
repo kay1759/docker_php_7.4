@@ -1,6 +1,8 @@
 # docker_php_7.4
 
 	php 7.4 with changing uid and gid of www-data
+	
+	Composer installed
 
 	Mainly used for development purpose
 
